@@ -1,5 +1,5 @@
-##Welcome to Steele Company Limited
+## Welcome to Steele Company Limited
 
-Information:
+[Home](./)
 
-This is my company.
+This is about Steele Company Limited.
