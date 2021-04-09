@@ -1,4 +1,4 @@
-##Welcome to Steele Company Limited
+#Welcome to Steele Company Limited
 
 Information:
 
