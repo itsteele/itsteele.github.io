@@ -2,4 +2,3 @@ name: "Steele Company Limited"
 title: "Steele Company Limited"
 plugins:
   - jemoji
-  theme: jekyll-theme-midnight

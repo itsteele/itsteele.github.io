@@ -1,5 +1,5 @@
-## Welcome to Steele Company Limited
+<h1>Welcome to Steele Company Limited</h1>
 
 [Home](./)
 
-This is about Steele Company Limited.
+<h4 style="color:green;">This is about Steele Company Limited.</h4>
