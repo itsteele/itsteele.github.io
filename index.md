@@ -1,5 +1,5 @@
-##Home Page
+##Welcome to Steele Company Limited
 
-##About Page
+Information:
 
-##Tour Page
+This is my company.
