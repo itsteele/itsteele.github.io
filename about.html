@@ -1,13 +1,72 @@
-<html>
+<html style="background-color:gray;">
 
   <head>
-    <title style="color:blue; text-align:center;">About Me!</title>
+    <title>About Me</title>
   </head>
 
-  <h4 style="color:blue">Here is some stuff about me and <br /> why I got into computer science:</h4>
+  <h1 style="color:white; text-align:center; font-size:240%; font-family:impact;">About Me!</h1>
 
-  <body style="background-color:gray;">
-    <h4 style="color:blue; text-align:center;">Test</h4>
-  </body>
+  <div class="wrapPage">
+    <div class="left">
+      <p style="color:blue; font-size:115%; font-family:courier;">These are some pictures of me and my dogs Duke <br /> (German Shepherd)and Denver (Australian Shepherd):</p>
+
+      <div class="column">
+        <img src="IsaacSteele.jpeg">
+        <img src="Duke.jpeg">
+      </div>
+
+      <div class="column">
+        <img src="Denver.jpeg">
+        <img src="DukeAndDenver.jpeg">
+      </div>
+    </div>
+
+    <div class="center">
+      <p style="color:blue; font-size:115%; font-family:courier;">Why/How I got into computer science:</p>
+    </div>
+
+    <div class="right">
+      <p style="color:blue; font-size:115%; font-family:courier;">My current experience and interests with computer science:</p>
+    </div>
+
+</div>
+
+  <style>
+
+    .column {
+      flex: 25%;
+      padding: 0 1px;
+    }
+
+    .column img {
+      margin-top: 10px;
+      vertical-align: middle;
+      height:55%
+    }
+
+    .wrapPage {
+      width: 100%;
+      overflow:auto;
+    }
+
+    .left {
+      float:left;
+      width: 33%;
+      height: 60%;
+    }
+
+    .center{
+      float:left;
+      width: 33%;
+      height:100%;
+      margin-left:0.25%;
+    }
+
+    .right {
+      float: right;
+      height: 100%;
+      width: 33.5%;
+    }
+  </style>
 
 </html>
